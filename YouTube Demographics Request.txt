@@ -1,0 +1,26 @@
+YouTube Demographics Performance Data Extraction for Tableau Analysis
+
+As part of our ongoing efforts to enhance our YouTube channel's engagement and better tailor our content to our diverse audience, I am requesting assistance in extracting specific data sets that will enable us to analyze our channel's performance across various demographics. This analysis is crucial for understanding how different audience segments are interacting with our content and identifying which types of videos resonate well in specific regions and demographic groups.
+
+The purpose of this data extraction is to:
+- Analyze audience engagement across different demographic segments.
+- Understand geographic preferences for content types
+- Assess the effectiveness of video titles and descriptions in driving viewer engagement.
+- Improve content planning and scheduling based on audience activity patterns.
+
+Key Metrics and Dimensions:
+- Video metadata + thumbnails
+- Demographics (age, gender, country)
+- Views, Percentage Views, Engagement (Likes, Comments, Shares)
+
+All the tables for this task are saved on Snowflake:
+- Database: SQL_HACKATHON
+- Schema: YOUTUBE_ANALYTICS 
+- Tables: 3 (channel_basics, channel_demographics, video)
+
+Please return your results:
+- As a view(s) to connect to Tableau
+- The SQL code to create these results
+- A Tableau Dashboard visualising your insights
+
+Please provide any recommendations to the data engineering team for what they can change to expand on the analysis work you've carried out. 
