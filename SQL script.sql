@@ -1,2 +1,3 @@
 Select * 
-from Youtube
+from YOUTUBE_ANALYTICS
+limit 100
